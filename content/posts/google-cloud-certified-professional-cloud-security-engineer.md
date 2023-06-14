@@ -15,6 +15,8 @@ series = []
 
 Are you looking to expand your knowledge of Google Cloud security and achieve the Google Cloud Certified Professional Cloud Security Engineer certification? Well, you’ve come to the right place! I’ve recently attained this very certification, and I’m excited to share my insights with you. In this blog post, we'll dive into the details of the exam, equipping you with the knowledge and skills necessary to pass on your first attempt.
 
+![Professional Cloud Security Engineer Certification](/images/pse.png)
+
 # Certification Path
 
 While there aren't any prerequisites to take this exam, I highly recommend obtaining the Google Cloud Certified Associate Cloud Engineer certification beforehand. This will not only familiarize you with the Google Cloud platform, but it will also provide you with a solid foundation in various cloud services, many of which will be covered in this exam.
